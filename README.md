@@ -230,3 +230,4 @@ That means you can try OpenSEO for free with the starter credit, then decide if/
 - DataForSEO Keywords Data API pricing: https://dataforseo.com/pricing/dataforseo-labs/dataforseo-google-api
 - DataForSEO Backlinks pricing: https://dataforseo.com/pricing/backlinks/backlinks
 - DataForSEO Lighthouse API docs: https://docs.dataforseo.com/v3/on_page/lighthouse/overview/
+  
