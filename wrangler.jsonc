@@ -60,7 +60,7 @@
     {
       "binding": "DB",
       "database_name": "open-seo",
-      "database_id": "37bee90a-e1aa-404f-b01e-b0d1d479bda1",
+      "database_id": "c613357e-0046-4d70-84d1-36b8f4523603",
       "migrations_dir": "drizzle",
     },
   ],
